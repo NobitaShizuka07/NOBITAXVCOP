@@ -45,6 +45,7 @@
 - **Replyraid**
 - **Love Raid**
 - **VcRaid**
+- **Video Raid**
 
 ## 🔎 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
 
@@ -54,7 +55,7 @@
 
 [ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ITZ-ZAID/Music-Deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 > Click on buttons below to expand and  detailed explanation process. !
 
