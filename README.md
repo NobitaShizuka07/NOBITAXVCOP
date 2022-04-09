@@ -114,8 +114,8 @@ Nobita@Windows~ $ cp sample.env .env
 </h3>
 
 ```console
-Zaid@Windows~ $ screen
-Zaid@Windows~ $ bash start
+Nobita@Windows~ $ screen
+Nobita@Windows~ $ bash start
 ```
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
