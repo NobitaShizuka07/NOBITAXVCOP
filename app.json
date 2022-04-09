@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "Nobita Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "keywords": ["Nobita", "NOBITAXVCOP", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "repository": "https://github.com/Nobitashizuka07/NOBITAXVCOP",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "ASSISTANT_NAME": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "Zaid_assistant"
+            "value": "Nobita_assistant"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
