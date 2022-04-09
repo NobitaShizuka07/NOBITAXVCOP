@@ -36,7 +36,7 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{START_PIC}",
-        caption=f"""**It Is Advance Music Bot.
+        caption=f"""**It Is An Advance Music Bot.
 Add Me To Your Group For Music and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
 Developed By [𝗡𝗢𝗕𝗜𝗧𝗔](t.me/NobitaShizuka07) ...
