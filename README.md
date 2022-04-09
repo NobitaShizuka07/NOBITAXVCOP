@@ -102,10 +102,10 @@
 
 
 ```console
-Zaid@Windows~ $ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
-Zaid@Windows~ $ cd Zaid-Vc-Player
-Zaid@Windows~ $ bash setup
-Zaid@Windows~ $ cp sample.env .env
+Nobita@Windows~ $ git clone https://github.com/NobitaShizuka07/NOBITAXVCOP
+Nobita@Windows~ $ cd NOBITAXVCOP
+Nobita@Windows~ $ bash setup
+Nobita@Windows~ $ cp sample.env .env
 ```
 
 <h3 align="center">
